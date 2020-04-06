@@ -12,6 +12,7 @@ viewBox="0 0 0.54231 0.36067"
            stroke-dashoffset: 40;
        }
    }
+   <!-- There is something new -->
     .tr01 {stroke:white;stroke-width:0.002;stroke-miterlimit:2.61313;
     stroke-dasharray: 0.39; animation: dash 200s linear infinite;}
     .fil0 {fill:black}
